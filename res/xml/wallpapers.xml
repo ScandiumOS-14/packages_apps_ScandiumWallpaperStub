@@ -15,6 +15,60 @@
     limitations under the License.
 -->
 <wallpapers>
+    
+    <category id="default" title="@string/category_default" featured="default_wallpaper">
+    
+    <static-wallpaper
+            id="default_wallpaper"
+            src="@drawable/default_wallpaper"
+            title="@string/wallpaper_default_wallpaper"
+            subtitle1="@string/author_lead" />
+
+    </category>
+
+	<category id="blaze" title="@string/category_blaze" featured="blaze_a">
+
+	<static-wallpaper
+            id="blaze_a"
+            src="@drawable/blaze_a"
+            title="@string/wallpaper_blaze_a" />
+
+	<static-wallpaper
+            id="blaze_b"
+            src="@drawable/blaze_b"
+            title="@string/wallpaper_blaze_b" />
+
+	<static-wallpaper
+            id="blaze_c"
+            src="@drawable/blaze_c"
+            title="@string/wallpaper_blaze_c" />
+
+	<static-wallpaper
+            id="blaze_d"
+            src="@drawable/blaze_d"
+            title="@string/wallpaper_blaze_d" />
+
+	<static-wallpaper
+            id="blaze_e"
+            src="@drawable/blaze_e"
+            title="@string/wallpaper_blaze_e" />
+
+	<static-wallpaper
+            id="blaze_f"
+            src="@drawable/blaze_f"
+            title="@string/wallpaper_blaze_f" />
+
+	<static-wallpaper
+            id="blaze_g"
+            src="@drawable/blaze_g"
+            title="@string/wallpaper_blaze_g" />
+
+	<static-wallpaper
+            id="blaze_h"
+            src="@drawable/blaze_h"
+            title="@string/wallpaper_blaze_h" />
+
+	</category>
 
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
 

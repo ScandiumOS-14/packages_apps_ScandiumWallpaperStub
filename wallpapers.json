@@ -1,4 +1,41 @@
 {
+    "Default": {
+		"author": "ADITYA",
+		"featured": "default_wallpaper",
+		"wallpapers": {
+            "Default Wallpaper": {
+				"1": ""
+			}
+        }
+    },
+
+	"Project Blaze": {
+		"featured": "blaze_a",
+		"wallpapers": {
+			"Project Blaze 1": {
+				"1": ""
+			},
+			"Project Blaze 2": {
+				"1": ""
+			},
+			"Project Blaze 3": {
+				"1": ""
+			},
+			"Project Blaze 4": {
+				"1": ""
+			},
+			"Project Blaze 5": {
+                                "1": ""
+                        },
+			"Project Blaze 6": {
+                                "1": ""
+                        },
+			"Project Blaze 7": {
+                                "1": ""
+                        }
+		}
+	},
+
     "Space": {
         "author": "Infinitum",
         "featured": "space_strange_landscape_1",
