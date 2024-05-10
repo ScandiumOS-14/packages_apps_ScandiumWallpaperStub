@@ -68,6 +68,46 @@
             src="@drawable/blaze_h"
             title="@string/wallpaper_blaze_h" />
 
+	<static-wallpaper
+            id="blaze_1"
+            src="@drawable/blaze_1"
+            title="@string/wallpaper_blaze_1" />
+
+	<static-wallpaper
+            id="blaze_2"
+            src="@drawable/blaze_2"
+            title="@string/wallpaper_blaze_2" />
+
+	<static-wallpaper
+            id="blaze_3"
+            src="@drawable/blaze_3"
+            title="@string/wallpaper_blaze_3" />
+
+	<static-wallpaper
+            id="blaze_4"
+            src="@drawable/blaze_4"
+            title="@string/wallpaper_blaze_4" />
+
+	<static-wallpaper
+            id="blaze_5"
+            src="@drawable/blaze_5"
+            title="@string/wallpaper_blaze_5" />
+
+	<static-wallpaper
+            id="blaze_6"
+            src="@drawable/blaze_6"
+            title="@string/wallpaper_blaze_6" />
+
+	<static-wallpaper
+            id="blaze_7"
+            src="@drawable/blaze_7"
+            title="@string/wallpaper_blaze_7" />
+
+	<static-wallpaper
+            id="blaze_8"
+            src="@drawable/blaze_8"
+            title="@string/wallpaper_blaze_8" />
+
 	</category>
 
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
