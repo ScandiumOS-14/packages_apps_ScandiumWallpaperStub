@@ -108,6 +108,16 @@
             src="@drawable/blaze_8"
             title="@string/wallpaper_blaze_8" />
 
+	<static-wallpaper
+            id="blaze_field"
+            src="@drawable/blaze_field"
+            title="@string/wallpaper_blaze_9" />
+
+	<static-wallpaper
+            id="blaze_waterfall"
+            src="@drawable/blaze_waterfall"
+            title="@string/wallpaper_blaze_10" />
+
 	</category>
 
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
