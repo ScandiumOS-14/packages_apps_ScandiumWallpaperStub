@@ -26,7 +26,7 @@
 
     </category>
 
-	<category id="scandium" title="@string/category_scandium" featured="scandium_a">
+	<category id="scandium" title="@string/category_scandium" featured="scandium_1">
 
 	<static-wallpaper
             id="scandium_1"
@@ -69,13 +69,13 @@
             title="@string/wallpaper_scandium_8" />
 
 	<static-wallpaper
-            id="scandium_field"
-            src="@drawable/scandium_field"
+            id="scandium_9"
+            src="@drawable/scandium_9"
             title="@string/wallpaper_scandium_9" />
 
 	<static-wallpaper
-            id="scandium_waterfall"
-            src="@drawable/scandium_waterfall"
+            id="scandium_10"
+            src="@drawable/scandium_10"
             title="@string/wallpaper_scandium_10" />
 
 	</category>
