@@ -26,97 +26,57 @@
 
     </category>
 
-	<category id="blaze" title="@string/category_blaze" featured="blaze_a">
+	<category id="scandium" title="@string/category_scandium" featured="scandium_a">
 
 	<static-wallpaper
-            id="blaze_a"
-            src="@drawable/blaze_a"
-            title="@string/wallpaper_blaze_a" />
+            id="scandium_1"
+            src="@drawable/scandium_1"
+            title="@string/wallpaper_scandium_1" />
 
 	<static-wallpaper
-            id="blaze_b"
-            src="@drawable/blaze_b"
-            title="@string/wallpaper_blaze_b" />
+            id="scandium_2"
+            src="@drawable/scandium_2"
+            title="@string/wallpaper_scandium_2" />
 
 	<static-wallpaper
-            id="blaze_c"
-            src="@drawable/blaze_c"
-            title="@string/wallpaper_blaze_c" />
+            id="scandium_3"
+            src="@drawable/scandium_3"
+            title="@string/wallpaper_scandium_3" />
 
 	<static-wallpaper
-            id="blaze_d"
-            src="@drawable/blaze_d"
-            title="@string/wallpaper_blaze_d" />
+            id="scandium_4"
+            src="@drawable/scandium_4"
+            title="@string/wallpaper_scandium_4" />
 
 	<static-wallpaper
-            id="blaze_e"
-            src="@drawable/blaze_e"
-            title="@string/wallpaper_blaze_e" />
+            id="scandium_5"
+            src="@drawable/scandium_5"
+            title="@string/wallpaper_scandium_5" />
 
 	<static-wallpaper
-            id="blaze_f"
-            src="@drawable/blaze_f"
-            title="@string/wallpaper_blaze_f" />
+            id="scandium_6"
+            src="@drawable/scandium_6"
+            title="@string/wallpaper_scandium_6" />
 
 	<static-wallpaper
-            id="blaze_g"
-            src="@drawable/blaze_g"
-            title="@string/wallpaper_blaze_g" />
+            id="scandium_7"
+            src="@drawable/scandium_7"
+            title="@string/wallpaper_scandium_7" />
 
 	<static-wallpaper
-            id="blaze_h"
-            src="@drawable/blaze_h"
-            title="@string/wallpaper_blaze_h" />
+            id="scandium_8"
+            src="@drawable/scandium_8"
+            title="@string/wallpaper_scandium_8" />
 
 	<static-wallpaper
-            id="blaze_1"
-            src="@drawable/blaze_1"
-            title="@string/wallpaper_blaze_1" />
+            id="scandium_field"
+            src="@drawable/scandium_field"
+            title="@string/wallpaper_scandium_9" />
 
 	<static-wallpaper
-            id="blaze_2"
-            src="@drawable/blaze_2"
-            title="@string/wallpaper_blaze_2" />
-
-	<static-wallpaper
-            id="blaze_3"
-            src="@drawable/blaze_3"
-            title="@string/wallpaper_blaze_3" />
-
-	<static-wallpaper
-            id="blaze_4"
-            src="@drawable/blaze_4"
-            title="@string/wallpaper_blaze_4" />
-
-	<static-wallpaper
-            id="blaze_5"
-            src="@drawable/blaze_5"
-            title="@string/wallpaper_blaze_5" />
-
-	<static-wallpaper
-            id="blaze_6"
-            src="@drawable/blaze_6"
-            title="@string/wallpaper_blaze_6" />
-
-	<static-wallpaper
-            id="blaze_7"
-            src="@drawable/blaze_7"
-            title="@string/wallpaper_blaze_7" />
-
-	<static-wallpaper
-            id="blaze_8"
-            src="@drawable/blaze_8"
-            title="@string/wallpaper_blaze_8" />
-
-	<static-wallpaper
-            id="blaze_field"
-            src="@drawable/blaze_field"
-            title="@string/wallpaper_blaze_9" />
-
-	<static-wallpaper
-            id="blaze_waterfall"
-            src="@drawable/blaze_waterfall"
-            title="@string/wallpaper_blaze_10" />
+            id="scandium_waterfall"
+            src="@drawable/scandium_waterfall"
+            title="@string/wallpaper_scandium_10" />
 
 	</category>
 

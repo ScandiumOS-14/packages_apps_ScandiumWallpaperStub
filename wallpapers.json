@@ -1,6 +1,6 @@
 {
     "Default": {
-		"author": "ADITYA",
+		"author": "PGYT PROJECT",
 		"featured": "default_wallpaper",
 		"wallpapers": {
             "Default Wallpaper": {
@@ -9,61 +9,37 @@
         }
     },
 
-	"Project Blaze": {
-		"featured": "blaze_1",
+	"Scandium OS": {
+		"featured": "scandium_1",
 		"wallpapers": {
-			"Project Blaze 1": {
+			"Scandium OS 1": {
 				"1": ""
 			},
-			"Project Blaze 2": {
+			"Scandium OS 2": {
 				"1": ""
 			},
-			"Project Blaze 3": {
+			"Scandium OS 3": {
 				"1": ""
 			},
-			"Project Blaze 4": {
+			"Scandium OS 4": {
 				"1": ""
 			},
-			"Project Blaze 5": {
+			"Scandium OS 5": {
                                 "1": ""
                         },
-			"Project Blaze 6": {
+			"Scandium OS 6": {
                                 "1": ""
                         },
-			"Project Blaze 7": {
+			"Scandium OS 7": {
                                 "1": ""
                         },
-			"Project Blaze 8": {
+			"Scandium OS 8": {
                                 "1": ""
                         },
-			"Project Blaze 9": {
+			"Scandium OS 9": {
                                 "1": ""
                         },
-			"Project Blaze 10": {
-                                "1": ""
-                        },
-			"Project Blaze 11": {
-                                "1": ""
-                        },
-			"Project Blaze 12": {
-                                "1": ""
-                        },
-			"Project Blaze 13": {
-                                "1": ""
-                        },
-			"Project Blaze 14": {
-                                "1": ""
-                        },
-			"Project Blaze 15": {
-                                "1": ""
-                        },
-			"Project Blaze 16": {
-                                "1": ""
-                        },
-			"Project Blaze 17": {
-                                "1": ""
-                        },
-			"Project Blaze 18": {
+			"Scandium OS 10": {
                                 "1": ""
                         }
 		}
