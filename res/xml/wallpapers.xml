@@ -67,17 +67,6 @@
             id="scandium_8"
             src="@drawable/scandium_8"
             title="@string/wallpaper_scandium_8" />
-
-	<static-wallpaper
-            id="scandium_9"
-            src="@drawable/scandium_9"
-            title="@string/wallpaper_scandium_9" />
-
-	<static-wallpaper
-            id="scandium_10"
-            src="@drawable/scandium_10"
-            title="@string/wallpaper_scandium_10" />
-
 	</category>
 
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
